@@ -1,7 +1,7 @@
 # 🎨 Background Color Changer
 
-This project changes the **background color** of the page randomly whenever the button is clicked.  
-It is built using **HTML, CSS, and JavaScript.
+This project changes the background color of the page randomly whenever the button is clicked.  
+It is built using HTML, CSS, and JavaScript.
 
  🎥 Demo
 [Background Changer Demo](BackgroundChanger_Demo.gif)
